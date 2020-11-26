@@ -2,7 +2,7 @@
 fastboot devices
 pause
 fastboot erase recovery
-fastboot flash recovery twrpname.img
+fastboot flash recovery recovery.img
 fastboot oem reboot-recovery
 pause
 
